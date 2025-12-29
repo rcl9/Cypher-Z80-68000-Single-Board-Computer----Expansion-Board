@@ -3,7 +3,7 @@
 This repository documents the hardware expansion board that I had designed and built for the [Motel Computers Cypher Z80/68000 SBC](https://github.com/rcl9/Cypher-Z80-68000-Single-Board-Computer-1984-by-Motel-Computers---History-and-Documentation) in 1986.
 
 <div style="text-align:center">
-<img src="/Images/Expansion board #1.jpg" alt="" style="width:70%; height:auto;">
+<img src="/Images/Expansion board \#1.jpg" alt="" style="width:70%; height:auto;">
 </div>
 
 It provided this additional functionality:
