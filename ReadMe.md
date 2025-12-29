@@ -3,7 +3,7 @@
 This repository documents the hardware expansion board that I had designed and built for the [Motel Computers Cypher Z80/68000 SBC](https://github.com/rcl9/Cypher-Z80-68000-Single-Board-Computer-1984-by-Motel-Computers---History-and-Documentation) in 1986.
 
 <div style="text-align:center">
-<img src="/Images/Expansion board #1.jpg" alt="" style="width:70%; height:auto;">
+<img src="/Images/Expansion board %231.jpg" alt="" style="width:70%; height:auto;">
 </div>
 
 It provided this additional functionality:
@@ -47,5 +47,3 @@ During the 1980's I standardized on this DB25 connector pinout for my "Universal
 |25 | Data In 7| Busy from printer |
 
 The output pin assignments were made compatible with the Exidy Sorcerer's DB25 parallel port connector. 
-
-<img src="/Images/Expansion board #1.jpg">
