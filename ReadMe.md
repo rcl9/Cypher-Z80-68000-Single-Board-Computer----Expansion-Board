@@ -1,4 +1,4 @@
-## Parallel I/O, SASI Controller and R-Bus Interfaces Expansion Board for the Cypher Z80/68k SBC
+# Parallel I/O, SASI Controller and R-Bus Interfaces Expansion Board for the Cypher Z80/68k SBC
 
 This repository documents the hardware expansion board that I had designed and built for the [Motel Computers Cypher Z80/68000 SBC](https://github.com/rcl9/Cypher-Z80-68000-Single-Board-Computer-1984-by-Motel-Computers---History-and-Documentation) in 1986.
 
