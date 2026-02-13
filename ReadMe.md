@@ -12,7 +12,7 @@ It provided this additional functionality:
 
 - A "R-Bus" or "Rob's Bus" interface. This was the high-speed bus protocol that I had designed for my multi-card DSP-based music synthesis computer named "Pegasus-II".
 
-- A "Universal Parallel I/O Port" connector. This was my own parallel port standard that I had designed into all of my self-built 1980's Z80 computers. It allowed for my [out-board peripheral projects](https://github.com/rcl9/Imagery-of-Past-Projects) to be easily moved from machine to machine, before the advent of the USB protocol many decades later (such as for my EPROM emulator, OmniProm programmer, ZAP-A-Pal programmer, among other devices). 
+- A "Universal Parallel I/O Port" connector. This was my own parallel port standard that I had designed into all of my self-built 1980's Z80 computers. It allowed for my [out-board peripheral projects](https://github.com/rcl9/Imagery-of-Past-Projects) to be easily moved from machine to machine, before the advent of the USB protocol many decades later (such as for my [EPROM emulator](https://github.com/rcl9/EmuProm--Universal-EPROM-Emulator), [OmniProm programmer](https://github.com/rcl9/OMNI-Prom-Programmer), [ZAP-A-PAL](https://github.com/rcl9/ZAP-A-PAL-Programmer) programmer, among other devices). 
 
 - An Apple Macintosh SCSI interface based on the NCR5380.
 
@@ -47,3 +47,55 @@ During the 1980's I standardized on this DB25 connector pinout for my "Universal
 |25 | Data In 7| Busy from printer |
 
 The output pin assignments were made compatible with the Exidy Sorcerer's DB25 parallel port connector. 
+
+## Schematics
+
+<div style="text-align:center">
+<img src="/Schematics/8255 for Universal I-O Port - Dec 30 1985.jpg" alt="" style="width:70%; height:auto;">
+</div>
+8255 for Universal I/O Port
+
+<div style="text-align:center">
+<img src="/Schematics/Banking read port - Sept 9 1986.jpg" alt="" style="width:70%; height:auto;">
+</div>
+Banking read port
+
+<div style="text-align:center">
+<img src="/Schematics/Bus buffers - Dec 30 1985.jpg" alt="" style="width:70%; height:auto;">
+</div>
+Bus buffers
+
+<div style="text-align:center">
+<img src="/Schematics/Centronics printer cable cable pinouts - July 5 1986.jpg" alt="" style="width:70%; height:auto;">
+</div>
+Centronics printer cable cable pinouts
+
+<div style="text-align:center">
+<img src="/Schematics/Cypher bus connector pinouts - Feb 15 1986.jpg" alt="" style="width:70%; height:auto;">
+</div>
+Cypher bus connector pinouts
+
+<div style="text-align:center">
+<img src="/Schematics/I-O Port Map - Dec 30 1985.jpg" alt="" style="width:70%; height:auto;">
+</div>
+I/O Port Map
+
+<div style="text-align:center">
+<img src="/Schematics/Pegasus (R-Bus -- Rob's bus) host interface - Feb 1 1987.jpg" alt="" style="width:70%; height:auto;">
+</div>
+Pegasus (R-Bus -- Rob's bus) host interface 
+
+<div style="text-align:center">
+<img src="/Schematics/Port decoding - Dec 30 1985.jpg" alt="" style="width:70%; height:auto;">
+</div>
+Port decoding
+
+<div style="text-align:center">
+<img src="/Schematics/SASI hard disk controller interface - Dec 30 1985.jpg" alt="" style="width:70%; height:auto;">
+</div>
+SASI hard disk controller interface
+
+<div style="text-align:center">
+<img src="/Schematics/SCSI bus interface for Apple Macintosh - Dec 17 1988.jpg" alt="" style="width:70%; height:auto;">
+</div>
+SCSI bus interface for Apple Macintosh
