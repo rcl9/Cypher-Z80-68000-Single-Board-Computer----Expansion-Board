@@ -52,8 +52,9 @@ The output pin assignments were made compatible with the Exidy Sorcerer's DB25 p
 
 <div style="text-align:center">
 <img src="/Schematics/8255 for Universal I-O Port - Dec 30 1985.jpg" alt="" style="width:70%; height:auto;">
-</div>
+<br>
 8255 for Universal I/O Port
+</div>
 
 <div style="text-align:center">
 <img src="/Schematics/Banking read port - Sept 9 1986.jpg" alt="" style="width:70%; height:auto;">
