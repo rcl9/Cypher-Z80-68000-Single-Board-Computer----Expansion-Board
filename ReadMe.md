@@ -68,24 +68,6 @@ Bus buffers:
 </div>
 <br>
 
-Centronics printer cable cable pinouts:
-<div style="text-align:center">
-<img src="/Schematics/Centronics printer cable cable pinouts - July 5 1986.jpg" alt="" style="width:70%; height:auto;">
-</div>
-<br>
-
-Cypher bus connector pinouts:
-<div style="text-align:center">
-<img src="/Schematics/Cypher bus connector pinouts - Feb 15 1986.jpg" alt="" style="width:70%; height:auto;">
-</div>
-<br>
-
-I/O Port Map:
-<div style="text-align:center">
-<img src="/Schematics/I-O Port Map - Dec 30 1985.jpg" alt="" style="width:70%; height:auto;">
-</div>
-<br>
-
 Pegasus (R-Bus -- Rob's bus) host interface:
 <div style="text-align:center">
 <img src="/Schematics/Pegasus (R-Bus -- Rob's bus) host interface - Feb 1 1987.jpg" alt="" style="width:70%; height:auto;">
@@ -107,5 +89,23 @@ SASI hard disk controller interface:
 SCSI bus interface for Apple Macintosh:
 <div style="text-align:center">
 <img src="/Schematics/SCSI bus interface for Apple Macintosh - Dec 17 1988.jpg" alt="" style="width:70%; height:auto;">
+</div>
+<br>
+
+I/O Port Map:
+<div style="text-align:center">
+<img src="/Schematics/I-O Port Map - Dec 30 1985.jpg" alt="" style="width:70%; height:auto;">
+</div>
+<br>
+
+Centronics printer cable cable pinouts:
+<div style="text-align:center">
+<img src="/Schematics/Centronics printer cable cable pinouts - July 5 1986.jpg" alt="" style="width:70%; height:auto;">
+</div>
+<br>
+
+Cypher bus connector pinouts:
+<div style="text-align:center">
+<img src="/Schematics/Cypher bus connector pinouts - Feb 15 1986.jpg" alt="" style="width:70%; height:auto;">
 </div>
 <br>
